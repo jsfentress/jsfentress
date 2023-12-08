@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, Friend
 
-<!--
-**jsfentress/jsfentress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is John, and I am an aspiring frontend devloper building my skills and seeking my first role. I enjoy using modern web technologies to build applications that both serve a purpose and solve technical problems in interesting ways. When I'm not developing, you can find me recording music, deep diving on new programming languages/technologies, or hiking in the woods.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I am currently working on
+
+- A portfolio website
+- Landing Pages
+
+## 💻 What I am currently learning
+
+- HTML & CSS
+- JavaScript
+
+## 📖 What I am currently reading
+
+- Three Simple Steps by Trevor Blake
+
+## 📫 Where to find me
+
+- [LinkedIn](https://www.linkedin.com/in/johnfentress/)
